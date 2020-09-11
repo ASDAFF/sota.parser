@@ -46,7 +46,7 @@ include($_SERVER["DOCUMENT_ROOT"].'/bitrix/modules/shs.parser/classes/phpQuery/p
 include($_SERVER["DOCUMENT_ROOT"].'/bitrix/modules/shs.parser/classes/general/sotbit_idna_convert.class.php');
 include($_SERVER["DOCUMENT_ROOT"].'/bitrix/modules/shs.parser/classes/general/file_get_html.php');
 /**
-*** класс для парсинга rss, page, catalog
+*** РєР»Р°СЃСЃ РґР»СЏ РїР°СЂСЃРёРЅРіР° rss, page, catalog
 **/
 Class RssContentParser extends SotbitXmlParser {
     /*protected $id = false;

@@ -1,1 +1,184 @@
-<? $GLOBALS['_____678066555']= array(base64_decode('SW5jbHVkZU1vZHVsZUxhbmd'.'GaW'.'x'.'l'));$GLOBALS['____1118229998']= array(base64_decode('ZGVmaW5l'),base64_decode(''.'c3Ry'.'cmV2'),base64_decode('c3RydG91cHBlcg'.'=='),base64_decode('ZGlybmFtZ'.'Q'.'=='),base64_decode('c3Ry'.'cmV2'),base64_decode('aW1wbG9k'.'ZQ'.'=='),base64_decode('ZGF0ZQ=='),base64_decode('bWt0aW1l'),base64_decode('ZGF0ZQ=='),base64_decode('Z'.'GF0ZQ=='),base64_decode(''.'ZG'.'F'.'0'.'ZQ'.'=='),base64_decode(''.'Z'.'GF'.'0Z'.'Q=='),base64_decode('bWt'.'0aW1l'),base64_decode('ZGF0Z'.'Q'.'=='),base64_decode('ZGF0'.'ZQ=='),base64_decode('ZGF0ZQ=='),base64_decode('ZG'.'F0ZQ=='),base64_decode('bWt'.'0a'.'W1l'),base64_decode('Z'.'GF0ZQ=='),base64_decode('Z'.'GF'.'0ZQ'.'=='),base64_decode('ZG'.'F0ZQ=='),base64_decode('c3'.'Vic3R'.'y'),base64_decode('c3'.'V'.'i'.'c'.'3'.'Ry'),base64_decode(''.'c3Vic3R'.'y'),base64_decode('c3Vic3R'.'y'),base64_decode('c3Vic'.'3R'.'y'),base64_decode('c3V'.'ic3Ry'),base64_decode('c3Vic'.'3Ry'),base64_decode(''.'c'.'3'.'Vic'.'3Ry'),base64_decode('c3RycmV'.'2'),base64_decode('c3By'.'aW50Zg='.'='),base64_decode('c3RybGVu'),base64_decode('c3RybGVu'),base64_decode(''.'Y2'.'hy'),base64_decode('b3J'.'k'),base64_decode('b3J'.'k'),base64_decode(''.'YmFz'.'ZTY0X2'.'VuY29kZQ=='),base64_decode('ZmlsZV'.'9leGl'.'zdHM'.'='),base64_decode(''.'Zm'.'9'.'w'.'Z'.'W4='),base64_decode(''.'Z'.'ndyaXR'.'l'),base64_decode(''.'ZmN'.'s'.'b3Nl'),base64_decode('c3By'.'aW50Z'.'g=='),base64_decode(''.'c3'.'Vi'.'c3R'.'y'),base64_decode('c3Ry'.'cm'.'V2'),base64_decode('ZGF0ZQ=='),base64_decode('bWt0a'.'W1l'),base64_decode('ZGF0'.'ZQ=='),base64_decode('ZGF'.'0'.'ZQ=='),base64_decode('ZG'.'F0'.'ZQ=='),base64_decode('ZG'.'F'.'0Z'.'Q'.'=='),base64_decode('bWt0'.'aW1l'),base64_decode('Z'.'GF0ZQ'.'=='),base64_decode(''.'Z'.'GF0ZQ=='),base64_decode('ZGF0ZQ'.'=='),base64_decode('ZG'.'F0ZQ=='),base64_decode('b'.'Wt'.'0aW1l'),base64_decode('ZGF0Z'.'Q='.'='),base64_decode('ZGF0ZQ=='),base64_decode('ZGF0'.'Z'.'Q=='),base64_decode(''.'c'.'3Vic3Ry'),base64_decode('c3Vic3Ry'),base64_decode('c3Vic3Ry'),base64_decode('c3Vic3Ry'),base64_decode('c'.'3'.'Vic'.'3Ry'),base64_decode('c3Vic'.'3Ry'),base64_decode('c3Vic3Ry'),base64_decode('c3Vic3Ry'),base64_decode('c3Vi'.'c3Ry'),base64_decode('c3RybGVu'),base64_decode('c3'.'RybGVu'),base64_decode('Y2hy'),base64_decode('b3Jk'),base64_decode(''.'b3Jk'),base64_decode('c3B'.'yaW50Zg='.'='),base64_decode('c3Vi'.'c'.'3Ry'),base64_decode('c3RycmV'.'2'),base64_decode('Y'.'m'.'FzZ'.'TY0X2VuY2'.'9kZQ'.'=='),base64_decode('aXNf'.'b'.'2'.'JqZWN0'),base64_decode('aW1wbG9kZQ'.'=='),base64_decode(''.'YX'.'JyY'.'Xlf'.'a2V5X2'.'V4aXN0cw=='),base64_decode('aXN'.'fZGly'),base64_decode('b3BlbmRpcg=='),base64_decode('cmV'.'hZ'.'GRp'.'cg=='),base64_decode('Zm'.'lsZV9'.'w'.'dXRfY29u'.'dGVudH'.'M='),base64_decode('Y2xv'.'c2VkaXI='),base64_decode(''.'a'.'XNf'.'Z'.'G'.'ly'),base64_decode(''.'b3Bl'.'bmR'.'pcg='.'='),base64_decode(''.'cm'.'VhZGRpcg'.'=='),base64_decode('dW5s'.'aW5r'),base64_decode('Y2xvc'.'2V'.'kaX'.'I'.'='),base64_decode(''.'aXNfZGly'),base64_decode(''.'b3BlbmR'.'pcg=='),base64_decode('cmVhZGRpcg='.'='),base64_decode('aXNfZGl'.'y'),base64_decode('b3Blbm'.'R'.'pcg'.'=='),base64_decode('cmVhZGRpc'.'g=='),base64_decode(''.'Y2'.'xvc2Vk'.'aXI='),base64_decode('Y'.'2xvc2'.'V'.'kaX'.'I'.'='),base64_decode('bW'.'Q1'),base64_decode(''.'anNvbl9lbmNv'.'Z'.'GU='),base64_decode('c'.'3RyZWF'.'t'.'X2NvbnRle'.'HRfY3J'.'lYXRl'),base64_decode('ZmlsZV9n'.'ZXR'.'fY29udG'.'V'.'ud'.'HM'.'='));if(!function_exists(__NAMESPACE__.'\\___712356821')){function ___712356821($_1049802216){static $_1243818732= false; if($_1243818732 == false) $_1243818732=array('c2hz'.'X3Bhcn'.'Nlcl8'.'=','b21lZA'.'==',''.'W'.'Q='.'=','RE9DV'.'U1FTlRfUk9P'.'VA==','L'.'2'.'J'.'pdHJpeC9'.'tb2R1bGVzL21h'.'aW4vY2xhc3Nlcy9'.'n'.'ZW5'.'lc'.'mFsL3VwZ'.'GF0'.'ZV9jb'.'GllbnQucGhw','R'.'E9DVU1F'.'TlRfUk9PVA'.'==','L'.'2Jp'.'dHJp'.'eC'.'9t'.'b'.'2'.'R1bG'.'VzL21haW4v'.'Y2'.'xhc3Nl'.'cy9'.'nZW5lcmFsL3'.'VwZGF0ZV'.'9jbG'.'llb'.'nRf'.'cGFydG'.'5'.'lci5'.'waHA=','L3ZlcnNpb24uc'.'Ghw',''.'V'.'kVS'.'U'.'0'.'lPTg==',''.'V'.'kVSU'.'0lPTl9EQVR'.'F','c2'.'hz'.'L'.'n'.'B'.'hcnN'.'lcl9NT0'.'R'.'VT'.'EVf'.'TkFNRQ==','c2hz'.'LnBh'.'c'.'nNl'.'c'.'l'.'9NT0RVTE'.'V'.'fR'.'EVTQw'.'==','c2'.'hzLnBh'.'cnNl'.'cl9QQVJ'.'UTkV'.'SX05B'.'TUU=','c2hzLnBh'.'cnNl'.'c'.'l9'.'QQVJUTkV'.'SX1'.'V'.'SSQ='.'=','Yml0cml'.'4',''.'bW9k'.'dWxlcw='.'=','c2hzL'.'nBhcnNlcg==','Y'.'WRt'.'aW4'.'=','cGhw'.'Lm1zYl9'.'ldGF'.'kX3J'.'lc3U=','RE9DVU1FTlR'.'fUk9'.'PVA==','Lw'.'==','Lw'.'='.'=',''.'MDk2'.'N2NkMw==',''.'ZA'.'==','bQ==',''.'ZA==','WQ'.'==','bQ='.'=','bQ==','ZA==','W'.'Q='.'=','WQ==','bQ'.'='.'=','ZA==','W'.'Q'.'==','','RVQ'.'=','SV'.'M=',''.'WA==',''.'SVI'.'=','VA==','SQ'.'==','Qg==',''.'MDM1MjM=','JXMlcw==','MWZhOGYzY2Y4N2UwN'.'j'.'Vj'.'M2RmMDE=','P'.'A==','P'.'w'.'==','ZGV'.'maW5'.'lK'.'CJ'.'z'.'aHNf'.'cGFyc2Vy'.'X1'.'RFTVBPUkF'.'SWV9DQU'.'NIRSI'.'sICI'.'=','Iik'.'7','P'.'w==','Pg==','dw==',''.'ZHJtX3N0ZXJnb2'.'tj','R'.'EI=',''.'U0'.'VMRUN'.'UIF'.'Z'.'BTFVFIEZST00gYl'.'9vcH'.'Rp'.'b24'.'g'.'V0hFUkU'.'gTk'.'FNRT0n','JXM'.'l'.'cw==','f'.'m'.'Jz','ZXRhZF9'.'w'.'bw'.'='.'=','Jy'.'BB'.'TkQ'.'gTU9'.'EVUxFX0lEPS'.'dzaH'.'MucGFyc2Vy'.'Jw==','Yz'.'Jm'.'OT'.'Q5YTc4N'.'jNo'.'e'.'XR'.'vc'.'w==','ZA==',''.'bQ='.'=','ZA='.'=','WQ==',''.'b'.'Q'.'==','b'.'Q==','ZA==','WQ==',''.'WQ'.'==','bQ==',''.'ZA==',''.'WQ==','','YQ==','Qg==',''.'UmE'.'=',''.'S2E=','Z'.'A==','Q'.'Q==','Qn'.'J'.'h','M'.'TBk','MzBhMDYzOGQ5OTgy'.'MTY'.'2N'.'Dc3','REI=',''.'SU5'.'TRVJU'.'IElOVE8'.'gY'.'l9vcHRpb24'.'gKE1PRF'.'VMRV9JRC'.'wgTk'.'FNR'.'SwgVkFM'.'V'.'UUpI'.'F'.'ZBTF'.'V'.'FUy'.'gn'.'c2h'.'z'.'LnB'.'hcn'.'Nl'.'cicsICc=','JXMlcw==','f'.'m'.'Jz','ZXRhZF9wb'.'w==','Jywg'.'Jw'.'==','REI=','Jyk=','Q0FDSEV'.'f'.'TU'.'FOQUdFUg'.'==','Q'.'0FDSE'.'VfTU'.'F'.'OQ'.'Ud'.'FUg'.'==',''.'Yl9vcH'.'Rp'.'b2'.'4=','RE9DV'.'U1FTlRf'.'Uk'.'9PVA==',''.'L'.'2J'.'pdHJpe'.'C9tb2R1bGV'.'z'.'Lw==','L2'.'luc3Rh'.'bGwvZ'.'G'.'Iv','L2'.'luc3Rh'.'bGw'.'uc3Fs','PGJ'.'yP'.'g==','c2h'.'z'.'LnBhcnNlcg==','c3Rhc'.'nRQYXJ'.'z','c'.'2hzLnBhcnN'.'l'.'cg'.'==',''.'UGFyc2V'.'y'.'RXZlbnRI'.'YW5kbGVy','T2'.'5Q'.'YXJzZXJ'.'TdGFydA==','c'.'2hz'.'LnBhcnNlc'.'g'.'='.'=','RW'.'5kUGFyc'.'w==','c2hzLn'.'Bh'.'cnNl'.'cg'.'==','UG'.'Fyc2VyRXZlbn'.'R'.'IYW5k'.'b'.'GVy','T25'.'QYXJz'.'ZXJ'.'Fbm'.'Q'.'=','c2F2Z'.'V90YWJsZXM=','c2F'.'2ZV90YWJ'.'sZXM=','WQ==','RE9DVU1FTl'.'RfUk'.'9P'.'VA==','L2JpdH'.'JpeC9'.'tb2'.'R1bGVzLw==','L'.'2luc3RhbGw'.'v'.'ZG'.'Iv',''.'L'.'3'.'VuaW5zd'.'GFsbC5zcWw=','U0VMR'.'UN'.'UIElEIEZ'.'ST00gYl9m'.'aW'.'x'.'lIFdIRVJFIE1PRF'.'V'.'MRV9JRD0n','Jw==','RmlsZ'.'Tog','PGJyPkxpbmU6IA'.'==','SUQ=','c2hz'.'Ln'.'BhcnNlc'.'g==','c3RhcnRQYXJz','c2hzLn'.'B'.'hcnNlcg==','UGFyc2V'.'yRXZlbnRI'.'YW5kb'.'GVy','T25QY'.'XJzZX'.'JTdG'.'Fyd'.'A==',''.'c2hz'.'Ln'.'BhcnN'.'lc'.'g==','R'.'W5kUG'.'F'.'ycw==',''.'c2hzLn'.'BhcnN'.'lc'.'g'.'==','UGFyc'.'2Vy'.'R'.'XZlbnRIYW'.'5k'.'b'.'GVy','T25QY'.'XJzZXJFbmQ'.'=','RE9D'.'VU'.'1'.'FTl'.'RfUk9PVA'.'==',''.'L'.'2'.'J'.'pdHJpeC9tb2'.'R1'.'bGVzLw==','L2FkbWlu','Li4=','L'.'g='.'=','bWVu'.'dS5waH'.'A=','R'.'E9'.'DVU1FTlR'.'fUk9P'.'VA==','L2'.'JpdHJpe'.'C9'.'hZG1'.'pbi8=','PA='.'=','PyByZXF1aX'.'JlKCRfU'.'0VSVkVSWyJ'.'ET0N'.'VTUVOVF'.'9ST0'.'9UI'.'l0uIi9i'.'aXRy'.'a'.'XgvbW9kdWx'.'lcy8=','L2FkbWluLw==','Iik7Pw==','Pg==','Q'.'09'.'N'.'U'.'FV'.'URVJO'.'QU'.'1F','Qlg=','RE9DVU1'.'FTlRfUk9P'.'VA'.'==',''.'L2'.'J'.'p'.'dHJpeC9'.'tb2R1bGVzL3N'.'ocy5w'.'Y'.'X'.'JzZ'.'X'.'IvaW5zdG'.'Fsb'.'C9pbWFnZ'.'XM'.'v','RE9DVU1FTlRfUk'.'9'.'PV'.'A==',''.'L2JpdHJpeC'.'9pbWFnZ'.'XM'.'vc'.'2hz'.'LnBhcnNlcg'.'==','RE'.'9DVU1FTl'.'RfU'.'k9P'.'VA='.'=','L2JpdH'.'Jpe'.'C'.'9tb2R1'.'bG'.'Vz'.'L3Nocy5'.'w'.'YXJ'.'zZ'.'X'.'I'.'vaW'.'5z'.'dG'.'FsbC90aGVt'.'ZXM'.'v',''.'RE9D'.'VU1FT'.'lRfU'.'k'.'9PVA==','L2J'.'pdH'.'JpeC90aGVtZXM=','RE9D'.'VU1FTlRfUk9P'.'VA==','L2J'.'pdH'.'JpeC9tb2R'.'1b'.'GVzL3Nocy'.'5wYXJzZXIvaW5z'.'d'.'GFsbC'.'9qcy8=','R'.'E9'.'DV'.'U1FT'.'lRfUk9P'.'VA==','L2'.'JpdHJ'.'p'.'eC9qcy8=','bWF'.'p'.'b'.'g='.'=','TU9E'.'V'.'U'.'xFX'.'0lE','c'.'2hzL'.'n'.'Bhc'.'n'.'Nlcg='.'=','RE9DV'.'U1FT'.'lRfU'.'k'.'9PVA'.'==',''.'L'.'2JpdHJp'.'eC9tb'.'2R'.'1bG'.'VzLw==','L2F'.'kb'.'Wlu',''.'Li'.'4=','Lg==',''.'RE9DVU1'.'F'.'TlRfUk9PVA'.'==','L2J'.'pdHJpeC9h'.'ZG1'.'p'.'bi8'.'=','X'.'w==','R'.'E'.'9'.'DVU1FTlR'.'f'.'Uk'.'9PVA==','L2JpdHJ'.'peC'.'9tb2'.'R'.'1b'.'GVzL'.'w='.'=',''.'L2lu'.'c'.'3RhbGw'.'vY2'.'9tcG9uZW5'.'0c'.'w='.'=','Li4=','Lg==','Lw==','L'.'i4'.'=','Lg==','L2JpdHJpe'.'C9jb'.'21wb'.'25'.'lbn'.'R'.'zLw'.'==','Lw==',''.'Q09NUFV'.'URVJOQU1'.'F','Q'.'lg=','RE9DVU1F'.'TlRfUk9PV'.'A'.'='.'=','L2'.'J'.'pd'.'HJpeC9tb2R'.'1'.'bGVzL3Nocy5wY'.'XJ'.'zZX'.'Iv'.'a'.'W5zdGFsbC90aGVtZ'.'XMv'.'LmRlZmF1b'.'HQv','RE'.'9DVU1FTlRfUk9P'.'VA==','L2JpdHJ'.'p'.'e'.'C90aGV'.'tZXMvL'.'mRl'.'Zm'.'F1b'.'HQ=','L2J'.'pd'.'HJpeC90a'.'G'.'VtZXMvLm'.'RlZmF1bHQ'.'vaWNvbnMv'.'c2hzLnBhcnN'.'lci'.'8=','L2JpdHJ'.'peC9'.'pbW'.'Fn'.'ZXMvc'.'2hzLnBhc'.'nNlci8'.'=','RVZFTl'.'RfTk'.'FNRQ'.'==','U09U'.'QklUX'.'1BBUl'.'NFU'.'l9'.'TVEFS'.'VA==','Tk'.'FN'.'RQ==',''.'U09U'.'QklU'.'X1B'.'BUlN'.'FUl9'.'TVE'.'FSVA==','TElE','c'.'nU'.'=',''.'REVT'.'Q1'.'JJUFRJ'.'T04=','U'.'09UQkl'.'UX1'.'BBU'.'lN'.'FUl9TV'.'EFSVF9ERVN'.'DUklQVEl'.'PT'.'g==',''.'QUNUS'.'VZF','WQ==','RVZ'.'FTlRfTkF'.'NRQ==','U09UQk'.'lUX1BBUlN'.'FUl9TVEFS'.'VA='.'=','TEl'.'E',''.'cnU=',''.'ZW4=','RU1'.'BSUxfRlJ'.'PTQ==','I0RF'.'RkFVTFRfR'.'U1B'.'SUxfRlJ'.'PTS'.'M=','RU'.'1'.'BS'.'UxfVE8=','I0VNQUlMX1RP'.'I'.'w==','QkND','','U1VC'.'Sk'.'VDVA'.'==','ZXZl'.'bn'.'RfcGF'.'y'.'c2VyX3N0'.'YXJ0X3Rpd'.'Gxl','Qk9'.'E'.'WV9UWVB'.'F','aH'.'RtbA==','TUVTU0FH'.'RQ==',''.'Z'.'X'.'ZlbnRfcGFyc2'.'VyX'.'3N'.'0Y'.'X'.'J0X3Rl'.'e'.'HQ'.'=','RVZFTl'.'Rf'.'TkFNRQ'.'='.'=','U09'.'UQklU'.'X1B'.'B'.'UlNFU'.'l9FT'.'kQ=','TkFNRQ'.'==','U0'.'9UQklUX'.'1BBUlNFU'.'l9FT'.'kQ=','TElE','cnU=',''.'REVTQ1JJUFRJT04=',''.'U09'.'UQk'.'lUX1BBUlNFUl'.'9FTkRf'.'REVTQ1JJUFRJT04=',''.'Q'.'UNU'.'S'.'VZF',''.'W'.'Q==','R'.'VZ'.'FTlRfTk'.'FNRQ'.'==','U09UQ'.'kl'.'UX1'.'BB'.'UlN'.'FUl9FT'.'kQ'.'=','TElE','cnU=','ZW4'.'=','R'.'U1BSUxfRlJPTQ='.'=','I0RFRkFVTFRfRU1'.'BS'.'UxfRlJPTS'.'M'.'=','RU1BSUxfVE'.'8=','I0'.'VNQUlMX1RP'.'Iw'.'==',''.'QkND','','U'.'1VCSkV'.'DVA==',''.'ZXZ'.'lbn'.'RfcGFyc2VyX2VuZF90'.'aXRs'.'ZQ==','Qk9'.'EWV9U'.'W'.'VBF','a'.'H'.'R'.'tb'.'A='.'=','TUVTU0FHR'.'Q==',''.'ZX'.'ZlbnRfc'.'GFyc2'.'VyX2VuZF90ZXh0','U09'.'UQkl'.'U'.'X1BBUlNFUl9TV'.'EFS'.'VA==','U'.'09UQklU'.'X1BBUl'.'NFUl9'.'FTkQ'.'=','c3Rlc'.'A='.'=',''.'U0'.'VSVkVS'.'X05'.'B'.'T'.'UU=','U0VS'.'VkV'.'S'.'X0'.'5BT'.'UU=','SFRUUF9IT1NU','S'.'F'.'RUU'.'F9IT'.'1NU','','QUNUSU9'.'O','Q'.'URE','U0l'.'UR'.'Q==','S0VZ','QklU'.'Ukl'.'Y','TElDRU5DRQ='.'=','TE'.'lDRU5T'.'RQ==',''.'Q0'.'xJRU5U','QA'.'==',''.'TElDRU'.'5TRQ='.'=','TU'.'9'.'EVUxF',''.'TkF'.'NRQ'.'==','T'.'mF'.'tZQ='.'=','RU1BSUw=',''.'RW1h'.'aWw'.'=','UE'.'hPTkU=','U'.'GhvbmU=','QklUUklYX'.'0RB'.'VE'.'VfRlJPT'.'Q==','Q0xJRU5'.'U','QA==','RE'.'FURV'.'9'.'GUk9N','Qk'.'lUUk'.'lY'.'X'.'0RBVEVfVE'.'8=','Q0xJRU5U',''.'QA==','REFURV9'.'UTw==','aHR0cA==','bWV'.'0aG9'.'k','UE9TVA==','aGVhZ'.'GV'.'y','Q29ud'.'G'.'Vud'.'C1UeXBl'.'OiBhcHBsa'.'WNhd'.'G'.'lvbi9qc29u'.'OyB'.'jaGFy'.'c2V0PXV'.'0Zi04DQo=',''.'Y'.'29'.'udGVu'.'dA==','a'.'HR0cHM'.'6Ly93d3cuc290Y'.'ml0LnJ1OjQ0My'.'9hcG'.'kv'.'ZGF0YWNv'.'b'.'G'.'xlY3Rp'.'b24v'.'aW5'.'kZ'.'Xgu'.'cGhw',''.'SU5TVEF'.'MTF9'.'USVR'.'M'.'R'.'Q==','RE9DVU1FT'.'l'.'RfU'.'k9PVA'.'==',''.'L'.'2'.'JpdHJpeC9'.'tb2R1bGVzL3Nocy'.'5wYX'.'Jz'.'ZXIvaW5zdG'.'FsbC9z'.'dGVwLnBocA==');return base64_decode($_1243818732[$_1049802216]);}};@$GLOBALS['____1118229998'][0](___712356821(0).$GLOBALS['____1118229998'][1]($GLOBALS['____1118229998'][2](___712356821(1))), ___712356821(2)); use \Bitrix\Main\ModuleManager; $GLOBALS['_____678066555'][0](__FILE__); require_once($_SERVER[___712356821(3)].___712356821(4)); require_once($_SERVER[___712356821(5)].___712356821(6)); Class shs_parser extends CModule{ const MODULE_ID= 'shs.parser'; var $MODULE_ID= 'shs.parser'; var $MODULE_VERSION; var $MODULE_VERSION_DATE; var $MODULE_NAME; var $MODULE_DESCRIPTION; var $MODULE_CSS; var $_1128836240= ''; function __construct(){ $arModuleVersion= array(); include($GLOBALS['____1118229998'][3](__FILE__).___712356821(7)); $this->MODULE_VERSION= $arModuleVersion[___712356821(8)]; $this->MODULE_VERSION_DATE= $arModuleVersion[___712356821(9)]; $this->MODULE_NAME= GetMessage(___712356821(10)); $this->MODULE_DESCRIPTION= GetMessage(___712356821(11)); $this->PARTNER_NAME= GetMessage(___712356821(12)); $this->PARTNER_URI= GetMessage(___712356821(13));} function InstallDB($_1812535676= array()){$_2138027366= array(___712356821(14), ___712356821(15), ___712356821(16), ___712356821(17), $GLOBALS['____1118229998'][4](___712356821(18))); $_1679225704= $_SERVER[___712356821(19)].___712356821(20).$GLOBALS['____1118229998'][5](___712356821(21), $_2138027366); $_1838626516= round(0+14);$_593850992= ___712356821(22); $_611657703= $GLOBALS['____1118229998'][6](___712356821(23), $GLOBALS['____1118229998'][7]((884-2*442),(894-2*447),min(86,0,28.666666666667),$GLOBALS['____1118229998'][8](___712356821(24)),$GLOBALS['____1118229998'][9](___712356821(25))+$_1838626516,$GLOBALS['____1118229998'][10](___712356821(26)))); $_1126107154= $GLOBALS['____1118229998'][11](___712356821(27), $GLOBALS['____1118229998'][12]((904-2*452),min(82,0,27.333333333333),(1152/2-576),$GLOBALS['____1118229998'][13](___712356821(28)),$GLOBALS['____1118229998'][14](___712356821(29))+$_1838626516,$GLOBALS['____1118229998'][15](___712356821(30)))); $_1837865631= $GLOBALS['____1118229998'][16](___712356821(31), $GLOBALS['____1118229998'][17]((172*2-344),(231*2-462),(776-2*388),$GLOBALS['____1118229998'][18](___712356821(32)),$GLOBALS['____1118229998'][19](___712356821(33))+$_1838626516,$GLOBALS['____1118229998'][20](___712356821(34)))); $_1034434968= ___712356821(35); $_2084519740= ___712356821(36).$GLOBALS['____1118229998'][21]($_611657703,round(0+1),round(0+0.33333333333333+0.33333333333333+0.33333333333333)).$GLOBALS['____1118229998'][22]($_1837865631,round(0+1.5+1.5),round(0+1)).___712356821(37).$GLOBALS['____1118229998'][23]($_1126107154,min(42,0,14),round(0+0.33333333333333+0.33333333333333+0.33333333333333)). $GLOBALS['____1118229998'][24]($_1837865631,round(0+0.25+0.25+0.25+0.25),round(0+1)).___712356821(38).$GLOBALS['____1118229998'][25]($_611657703,min(244,0,81.333333333333),round(0+0.25+0.25+0.25+0.25)).___712356821(39).$GLOBALS['____1118229998'][26]($_1837865631,(1136/2-568),round(0+0.2+0.2+0.2+0.2+0.2)). ___712356821(40).$GLOBALS['____1118229998'][27]($_1837865631,round(0+2),round(0+0.5+0.5)).___712356821(41).$GLOBALS['____1118229998'][28]($_1126107154,round(0+0.33333333333333+0.33333333333333+0.33333333333333),round(0+0.33333333333333+0.33333333333333+0.33333333333333)).___712356821(42); $_593850992= $GLOBALS['____1118229998'][29](___712356821(43)).$GLOBALS['____1118229998'][30](___712356821(44),$_593850992,___712356821(45)); $_52792500= $GLOBALS['____1118229998'][31]($_593850992); $_1540186801= min(34,0,11.333333333333); for($_392807241=(1108/2-554); $_392807241<$GLOBALS['____1118229998'][32]($_2084519740); $_392807241++){ $_1034434968 .= $GLOBALS['____1118229998'][33]($GLOBALS['____1118229998'][34]($_2084519740[$_392807241])^ $GLOBALS['____1118229998'][35]($_593850992[$_1540186801])); if($_1540186801==$_52792500-round(0+0.25+0.25+0.25+0.25)) $_1540186801=(1172/2-586); else $_1540186801= $_1540186801+ round(0+1);} $_1034434968= ___712356821(46).___712356821(47).___712356821(48).$GLOBALS['____1118229998'][36]($_1034434968).___712356821(49).___712356821(50).___712356821(51); CheckDirPath($_1679225704); if(!$GLOBALS['____1118229998'][37]($_1679225704)){ $_449783259=@$GLOBALS['____1118229998'][38]($_1679225704, ___712356821(52));@$GLOBALS['____1118229998'][39]($_449783259, $_1034434968);@$GLOBALS['____1118229998'][40]($_449783259);}$_331528352= ___712356821(53); $_1665032008= $GLOBALS[___712356821(54)]->Query(___712356821(55).$GLOBALS['____1118229998'][41](___712356821(56),___712356821(57),$GLOBALS['____1118229998'][42]($_331528352, round(0+0.66666666666667+0.66666666666667+0.66666666666667), round(0+0.8+0.8+0.8+0.8+0.8))).$GLOBALS['____1118229998'][43](___712356821(58)).___712356821(59), true); if($_1665032008!==False){ $_460937573= false; if($_1153732829= $_1665032008->Fetch()) $_460937573= true; if(!$_460937573){ $_1838626516= round(0+2.8+2.8+2.8+2.8+2.8);$_1595837153= ___712356821(60); $_611657703= $GLOBALS['____1118229998'][44](___712356821(61), $GLOBALS['____1118229998'][45]((214*2-428),(126*2-252),(241*2-482),$GLOBALS['____1118229998'][46](___712356821(62)),$GLOBALS['____1118229998'][47](___712356821(63))+$_1838626516,$GLOBALS['____1118229998'][48](___712356821(64)))); $_1126107154= $GLOBALS['____1118229998'][49](___712356821(65), $GLOBALS['____1118229998'][50]((1324/2-662),(828-2*414),(950-2*475),$GLOBALS['____1118229998'][51](___712356821(66)),$GLOBALS['____1118229998'][52](___712356821(67))+$_1838626516,$GLOBALS['____1118229998'][53](___712356821(68)))); $_1837865631= $GLOBALS['____1118229998'][54](___712356821(69), $GLOBALS['____1118229998'][55]((826-2*413),(1436/2-718),(950-2*475),$GLOBALS['____1118229998'][56](___712356821(70)),$GLOBALS['____1118229998'][57](___712356821(71))+$_1838626516,$GLOBALS['____1118229998'][58](___712356821(72)))); $_1034434968= ___712356821(73); $_2084519740= ___712356821(74).$GLOBALS['____1118229998'][59]($_611657703,(794-2*397),round(0+0.33333333333333+0.33333333333333+0.33333333333333)).___712356821(75).$GLOBALS['____1118229998'][60]($_1126107154,round(0+0.33333333333333+0.33333333333333+0.33333333333333),round(0+0.25+0.25+0.25+0.25)).___712356821(76).$GLOBALS['____1118229998'][61]($_1126107154,(914-2*457),round(0+1)). $GLOBALS['____1118229998'][62]($_1837865631,round(0+0.66666666666667+0.66666666666667+0.66666666666667),round(0+0.2+0.2+0.2+0.2+0.2)).___712356821(77).$GLOBALS['____1118229998'][63]($_1837865631,(225*2-450),round(0+1)).___712356821(78).$GLOBALS['____1118229998'][64]($_1837865631,round(0+0.6+0.6+0.6+0.6+0.6),round(0+0.33333333333333+0.33333333333333+0.33333333333333)). ___712356821(79).$GLOBALS['____1118229998'][65]($_611657703,round(0+1),round(0+0.5+0.5)).___712356821(80).$GLOBALS['____1118229998'][66]($_1837865631,round(0+1),round(0+0.5+0.5)); $_1595837153= $GLOBALS['____1118229998'][67](___712356821(81).$_1595837153,(139*2-278),-round(0+5)).___712356821(82); $_879722730= $GLOBALS['____1118229998'][68]($_1595837153); $_1540186801=(248*2-496); for($_392807241=(1480/2-740); $_392807241<$GLOBALS['____1118229998'][69]($_2084519740); $_392807241++){ $_1034434968 .= $GLOBALS['____1118229998'][70]($GLOBALS['____1118229998'][71]($_2084519740[$_392807241])^ $GLOBALS['____1118229998'][72]($_1595837153[$_1540186801])); if($_1540186801==$_879722730-round(0+0.2+0.2+0.2+0.2+0.2)) $_1540186801=(974-2*487); else $_1540186801= $_1540186801+ round(0+0.2+0.2+0.2+0.2+0.2);} $GLOBALS[___712356821(83)]->Query(___712356821(84).$GLOBALS['____1118229998'][73](___712356821(85),___712356821(86),$GLOBALS['____1118229998'][74]($_331528352, round(0+0.4+0.4+0.4+0.4+0.4), round(0+2+2))).$GLOBALS['____1118229998'][75](___712356821(87)).___712356821(88).$GLOBALS[___712356821(89)]->ForSql($GLOBALS['____1118229998'][76]($_1034434968), min(190,0,63.333333333333)).___712356821(90), True); if($GLOBALS['____1118229998'][77]($GLOBALS[___712356821(91)])) $GLOBALS[___712356821(92)]->Clean(___712356821(93));}} global $DB, $DBType, $APPLICATION; $this->_718878386= false; $this->_718878386= $DB->RunSQLBatch($_SERVER[___712356821(94)].___712356821(95).self::MODULE_ID.___712356821(96).$DBType.___712356821(97)); if($this->_718878386 !== false){ $APPLICATION->ThrowException($GLOBALS['____1118229998'][78](___712356821(98), $this->_718878386)); return false;}else{ RegisterModuleDependences(___712356821(99), ___712356821(100), ___712356821(101), ___712356821(102), ___712356821(103)); RegisterModuleDependences(___712356821(104), ___712356821(105), ___712356821(106), ___712356821(107), ___712356821(108)); } return true;} function UnInstallDB($_1812535676= array()){ global $DB, $DBType, $APPLICATION; $this->_718878386= false; if(!$GLOBALS['____1118229998'][79](___712356821(109), $_1812535676) ||($_1812535676[___712356821(110)] != ___712356821(111))){ $this->_718878386= $DB->RunSQLBatch($_SERVER[___712356821(112)].___712356821(113).self::MODULE_ID.___712356821(114).$DBType.___712356821(115)); $_1045824829= ___712356821(116).self::MODULE_ID.___712356821(117); $_929596842= $DB->Query($_1045824829, false, ___712356821(118).__FILE__.___712356821(119).__LINE__); while($_1369501988= $_929596842->Fetch()) CFile::Delete($_1369501988[___712356821(120)]);} UnRegisterModuleDependences(___712356821(121), ___712356821(122), ___712356821(123), ___712356821(124), ___712356821(125)); UnRegisterModuleDependences(___712356821(126), ___712356821(127), ___712356821(128), ___712356821(129), ___712356821(130));  return true;} function InstallEvents(){ return true;} function UnInstallEvents(){ return true;} function InstallFiles($_1812535676= array()){ if($GLOBALS['____1118229998'][80]($_93688947= $_SERVER[___712356821(131)].___712356821(132).self::MODULE_ID.___712356821(133))){ if($_719596793= $GLOBALS['____1118229998'][81]($_93688947)){ while(false !== $_1430489917= $GLOBALS['____1118229998'][82]($_719596793)){ if($_1430489917 == ___712356821(134) || $_1430489917 == ___712356821(135) || $_1430489917 == ___712356821(136)) continue; $GLOBALS['____1118229998'][83]($_1447356006= $_SERVER[___712356821(137)].___712356821(138).$_1430489917, ___712356821(139).___712356821(140).self::MODULE_ID.___712356821(141).$_1430489917.___712356821(142).___712356821(143));} $GLOBALS['____1118229998'][84]($_719596793);}} if($_ENV[___712356821(144)]!=___712356821(145)){  CopyDirFiles($_SERVER[___712356821(146)].___712356821(147), $_SERVER[___712356821(148)].___712356821(149), false, true); CopyDirFiles($_SERVER[___712356821(150)].___712356821(151), $_SERVER[___712356821(152)].___712356821(153), false, true); CopyDirFiles($_SERVER[___712356821(154)].___712356821(155), $_SERVER[___712356821(156)].___712356821(157), false, true);} return true;} function UnInstallAgent(){ CModule::IncludeModule(___712356821(158)); $_1682265652= CAgent::GetList(array(), array(___712356821(159)=>___712356821(160))); while($_1416323707= $_1682265652->Fetch()){ CAgent::Delete($_1416323707[ID]);}} function UnInstallFiles(){ if($GLOBALS['____1118229998'][85]($_93688947= $_SERVER[___712356821(161)].___712356821(162).self::MODULE_ID.___712356821(163))){ if($_719596793= $GLOBALS['____1118229998'][86]($_93688947)){ while(false !== $_1430489917= $GLOBALS['____1118229998'][87]($_719596793)){ if($_1430489917 == ___712356821(164) || $_1430489917 == ___712356821(165)) continue; $GLOBALS['____1118229998'][88]($_SERVER[___712356821(166)].___712356821(167).self::MODULE_ID.___712356821(168).$_1430489917);} $GLOBALS['____1118229998'][89]($_719596793);}} if($GLOBALS['____1118229998'][90]($_93688947= $_SERVER[___712356821(169)].___712356821(170).self::MODULE_ID.___712356821(171))){ if($_719596793= $GLOBALS['____1118229998'][91]($_93688947)){ while(false !== $_1430489917= $GLOBALS['____1118229998'][92]($_719596793)){ if($_1430489917 == ___712356821(172) || $_1430489917 == ___712356821(173) ||!$GLOBALS['____1118229998'][93]($_1282679110= $_93688947.___712356821(174).$_1430489917)) continue; $_986811250= $GLOBALS['____1118229998'][94]($_1282679110); while(false !== $_1839111914= $GLOBALS['____1118229998'][95]($_986811250)){ if($_1839111914 == ___712356821(175) || $_1839111914 == ___712356821(176)) continue; DeleteDirFilesEx(___712356821(177).$_1430489917.___712356821(178).$_1839111914);} $GLOBALS['____1118229998'][96]($_986811250);} $GLOBALS['____1118229998'][97]($_719596793);}} if($_ENV[___712356821(179)]!=___712356821(180)){  DeleteDirFiles($_SERVER[___712356821(181)].___712356821(182), $_SERVER[___712356821(183)].___712356821(184));  DeleteDirFilesEx(___712356821(185));  DeleteDirFilesEx(___712356821(186));} return true;} function AddEventPostType(){ $_456444648= new CEventType; $_1857725782= new CEventMessage; $_456444648->Add(array( ___712356821(187) => ___712356821(188), ___712356821(189) => GetMessage(___712356821(190)), ___712356821(191) => ___712356821(192), ___712356821(193) => GetMessage(___712356821(194)),)); $_893899445[___712356821(195)]= ___712356821(196); $_893899445[___712356821(197)]= ___712356821(198); $_893899445[___712356821(199)]= array(___712356821(200),___712356821(201)); $_893899445[___712356821(202)]= ___712356821(203); $_893899445[___712356821(204)]= ___712356821(205); $_893899445[___712356821(206)]= ___712356821(207); $_893899445[___712356821(208)]= GetMessage(___712356821(209)); $_893899445[___712356821(210)]= ___712356821(211); $_893899445[___712356821(212)]= GetMessage(___712356821(213)); $_1857725782->Add($_893899445); $_456444648->Add(array( ___712356821(214) => ___712356821(215), ___712356821(216) => GetMessage(___712356821(217)), ___712356821(218) => ___712356821(219), ___712356821(220) => GetMessage(___712356821(221)),)); $_893899445[___712356821(222)]= ___712356821(223); $_893899445[___712356821(224)]= ___712356821(225); $_893899445[___712356821(226)]= array(___712356821(227),___712356821(228)); $_893899445[___712356821(229)]= ___712356821(230); $_893899445[___712356821(231)]= ___712356821(232); $_893899445[___712356821(233)]= ___712356821(234); $_893899445[___712356821(235)]= GetMessage(___712356821(236)); $_893899445[___712356821(237)]= ___712356821(238); $_893899445[___712356821(239)]= GetMessage(___712356821(240)); $_1857725782->Add($_893899445);} function DeleteEventPostType(){ $_456444648= new CEventType; $_456444648->Delete(___712356821(241)); $_456444648->Delete(___712356821(242));} function DoInstall(){ global $APPLICATION; $this->InstallFiles(); $this->InstallDB(); $this->AddEventPostType(); if($_REQUEST[___712356821(243)] == round(0+0.5+0.5)){ if($_SERVER[___712356821(244)]){ $_626694683= $_SERVER[___712356821(245)];} elseif($_SERVER[___712356821(246)]){ $_626694683= $_SERVER[___712356821(247)];} $_808099552= ___712356821(248); $_1668670166= \CUpdateClient::GetUpdatesList($_808099552); $_384690060= array( ___712356821(249) => ___712356821(250), ___712356821(251) => $_626694683, ___712356821(252) => $GLOBALS['____1118229998'][98](___712356821(253).\CUpdateClientPartner::GetLicenseKey().___712356821(254)), ___712356821(255) => $_1668670166[___712356821(256)][(238*2-476)][___712356821(257)][___712356821(258)], ___712356821(259) => self::MODULE_ID, ___712356821(260) => $_REQUEST[___712356821(261)], ___712356821(262) => $_REQUEST[___712356821(263)], ___712356821(264) => $_REQUEST[___712356821(265)], ___712356821(266) => $_1668670166[___712356821(267)][min(142,0,47.333333333333)][___712356821(268)][___712356821(269)], ___712356821(270) => $_1668670166[___712356821(271)][(968-2*484)][___712356821(272)][___712356821(273)],); $_1597696666= array( ___712356821(274) => array( ___712356821(275) => ___712356821(276), ___712356821(277) => ___712356821(278), ___712356821(279) => $GLOBALS['____1118229998'][99]($_384690060))); $_682310371= $GLOBALS['____1118229998'][100]($_1597696666); $_910422558= $GLOBALS['____1118229998'][101](___712356821(280),(1060/2-530), $_682310371); RegisterModule( self::MODULE_ID);} else{ $APPLICATION->IncludeAdminFile(GetMessage(___712356821(281)), $_SERVER[___712356821(282)].___712356821(283));}} function DoUninstall(){ global $APPLICATION; UnRegisterModule(self::MODULE_ID); $this->DeleteEventPostType(); $this->UnInstallDB(); $this->UnInstallAgent(); $this->UnInstallFiles();}} ?>
+<?
+
+use \Bitrix\Main\ModuleManager;
+
+IncludeModuleLangFile(__FILE__);
+
+Class shs_parser extends CModule
+{
+    const MODULE_ID = 'shs.parser';
+    var $MODULE_ID = 'shs.parser';
+    var $MODULE_VERSION;
+    var $MODULE_VERSION_DATE;
+    var $MODULE_NAME;
+    var $MODULE_DESCRIPTION;
+    var $MODULE_CSS;
+    var $strError = '';
+
+    function __construct()
+    {
+        $arModuleVersion = array();
+        include(dirname(__FILE__) . '/version.php');
+        $this->MODULE_VERSION = $arModuleVersion['VERSION'];
+        $this->MODULE_VERSION_DATE = $arModuleVersion['VERSION_DATE'];
+        $this->MODULE_NAME = GetMessage('shs.parser_MODULE_NAME');
+        $this->MODULE_DESCRIPTION = GetMessage('shs.parser_MODULE_DESC');
+        $this->PARTNER_NAME = GetMessage('shs.parser_PARTNER_NAME');
+        $this->PARTNER_URI = GetMessage('shs.parser_PARTNER_URI');
+    }
+
+    function InstallDB($arParams = array())
+    {
+        global $DB, $DBType, $APPLICATION;
+        $this->errors = false;
+        $this->errors = $DB->RunSQLBatch($_SERVER["DOCUMENT_ROOT"] . "/bitrix/modules/" . self::MODULE_ID . "/install/db/" . $DBType . "/install.sql");
+        if ($this->errors !== false) {
+            $APPLICATION->ThrowException(implode('<br>', $this->errors));
+            return false;
+        } else {
+            RegisterModuleDependences('shs.parser', 'startPars', 'shs.parser', 'ParserEventHandler', 'OnParserStart');
+            RegisterModuleDependences('shs.parser', 'EndPars', 'shs.parser', 'ParserEventHandler', 'OnParserEnd');
+        }
+        return true;
+    }
+
+    function UnInstallDB($arParams = array())
+    {
+        global $DB, $DBType, $APPLICATION;
+        $this->errors = false;
+        if (!array_key_exists('save_tables', $arParams) || ($arParams['save_tables'] != 'Y')) {
+            $this->errors = $DB->RunSQLBatch($_SERVER["DOCUMENT_ROOT"] . "/bitrix/modules/" . self::MODULE_ID . "/install/db/" . $DBType . "/uninstall.sql");
+            $strSql = "SELECT ID FROM b_file WHERE MODULE_ID='" . self::MODULE_ID . "'";
+            $rsFile = $DB->Query($strSql, false, "File: " . __FILE__ . "<br>Line: " . __LINE__);
+            while ($arFile = $rsFile->Fetch()) CFile::Delete($arFile['ID']);
+        }
+        UnRegisterModuleDependences('shs.parser', 'startPars', 'shs.parser', 'ParserEventHandler', 'OnParserStart');
+        UnRegisterModuleDependences('shs.parser', 'EndPars', 'shs.parser', 'ParserEventHandler', 'OnParserEnd');
+        return true;
+    }
+
+    function InstallEvents()
+    {
+        return true;
+    }
+
+    function UnInstallEvents()
+    {
+        return true;
+    }
+
+    function InstallFiles($arParams = array())
+    {
+        if (is_dir($p = $_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/' . self::MODULE_ID . '/admin')) {
+            if ($dir = opendir($p)) {
+                while (false !== $item = readdir($dir)) {
+                    if ($item == '..' || $item == '.' || $item == 'menu.php') continue;
+                    file_put_contents($file = $_SERVER['DOCUMENT_ROOT'] . '/bitrix/admin/' . $item, '<' . '? require($_SERVER["DOCUMENT_ROOT"]."/bitrix/modules/' . self::MODULE_ID . '/admin/' . $item . '");?' . '>');
+                }
+                closedir($dir);
+            }
+        }
+        if ($_ENV['COMPUTERNAME'] != 'BX') {
+            CopyDirFiles($_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/shs.parser/install/images/', $_SERVER['DOCUMENT_ROOT'] . '/bitrix/images/shs.parser', false, true);
+            CopyDirFiles($_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/shs.parser/install/themes/', $_SERVER['DOCUMENT_ROOT'] . '/bitrix/themes', false, true);
+            CopyDirFiles($_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/shs.parser/install/js/', $_SERVER['DOCUMENT_ROOT'] . '/bitrix/js/', false, true);
+        }
+        return true;
+    }
+
+    function UnInstallAgent()
+    {
+        CModule::IncludeModule('main');
+        $dbAgent = CAgent::GetList(array(), array('MODULE_ID' => 'shs.parser'));
+        while ($arAgent = $dbAgent->Fetch()) {
+            CAgent::Delete($arAgent[ID]);
+        }
+    }
+
+    function UnInstallFiles()
+    {
+        if (is_dir($p = $_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/' . self::MODULE_ID . '/admin')) {
+            if ($dir = opendir($p)) {
+                while (false !== $item = readdir($dir)) {
+                    if ($item == '..' || $item == '.') continue;
+                    unlink($_SERVER['DOCUMENT_ROOT'] . '/bitrix/admin/' . self::MODULE_ID . '_' . $item);
+                }
+                closedir($dir);
+            }
+        }
+        if (is_dir($p = $_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/' . self::MODULE_ID . '/install/components')) {
+            if ($dir = opendir($p)) {
+                while (false !== $item = readdir($dir)) {
+                    if ($item == '..' || $item == '.' || !is_dir($p0 = $p . '/' . $item)) continue;
+                    $dir0 = opendir($p0);
+                    while (false !== $item0 = readdir($dir0)) {
+                        if ($item0 == '..' || $item0 == '.') continue;
+                        DeleteDirFilesEx('/bitrix/components/' . $item . '/' . $item0);
+                    }
+                    closedir($dir0);
+                }
+                closedir($dir);
+            }
+        }
+        if ($_ENV['COMPUTERNAME'] != 'BX') {
+            DeleteDirFiles($_SERVER['DOCUMENT_ROOT'] . '/bitrix/modules/shs.parser/install/themes/.default/', $_SERVER['DOCUMENT_ROOT'] . '/bitrix/themes/.default');
+            DeleteDirFilesEx('/bitrix/themes/.default/icons/shs.parser/');
+            DeleteDirFilesEx('/bitrix/images/shs.parser/');
+        }
+        return true;
+    }
+
+    function AddEventPostType()
+    {
+        $event = new CEventType;
+        $message = new CEventMessage;
+        $event->Add(array('EVENT_NAME' => 'SOTBIT_PARSER_START', 'NAME' => GetMessage('SOTBIT_PARSER_START'), 'LID' => 'ru', 'DESCRIPTION' => GetMessage('SOTBIT_PARSER_START_DESCRIPTION'),));
+        $field['ACTIVE'] = 'Y';
+        $field['EVENT_NAME'] = 'SOTBIT_PARSER_START';
+        $field['LID'] = array('ru', 'en');
+        $field['EMAIL_FROM'] = '#DEFAULT_EMAIL_FROM#';
+        $field['EMAIL_TO'] = '#EMAIL_TO#';
+        $field['BCC'] = '';
+        $field['SUBJECT'] = GetMessage('event_parser_start_title');
+        $field['BODY_TYPE'] = 'html';
+        $field['MESSAGE'] = GetMessage('event_parser_start_text');
+        $message->Add($field);
+        $event->Add(array('EVENT_NAME' => 'SOTBIT_PARSER_END', 'NAME' => GetMessage('SOTBIT_PARSER_END'), 'LID' => 'ru', 'DESCRIPTION' => GetMessage('SOTBIT_PARSER_END_DESCRIPTION'),));
+        $field['ACTIVE'] = 'Y';
+        $field['EVENT_NAME'] = 'SOTBIT_PARSER_END';
+        $field['LID'] = array('ru', 'en');
+        $field['EMAIL_FROM'] = '#DEFAULT_EMAIL_FROM#';
+        $field['EMAIL_TO'] = '#EMAIL_TO#';
+        $field['BCC'] = '';
+        $field['SUBJECT'] = GetMessage('event_parser_end_title');
+        $field['BODY_TYPE'] = 'html';
+        $field['MESSAGE'] = GetMessage('event_parser_end_text');
+        $message->Add($field);
+    }
+
+    function DeleteEventPostType()
+    {
+        $event = new CEventType;
+        $event->Delete('SOTBIT_PARSER_START');
+        $event->Delete('SOTBIT_PARSER_END');
+    }
+
+    function DoInstall()
+    {
+        global $APPLICATION;
+        $this->InstallFiles();
+        $this->InstallDB();
+        $this->AddEventPostType();
+        RegisterModule(self::MODULE_ID);
+    }
+
+    function DoUninstall()
+    {
+        global $APPLICATION;
+        UnRegisterModule(self::MODULE_ID);
+        $this->DeleteEventPostType();
+        $this->UnInstallDB();
+        $this->UnInstallAgent();
+        $this->UnInstallFiles();
+    }
+} ?>

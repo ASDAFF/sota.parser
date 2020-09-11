@@ -1,1 +1,126 @@
-<? $GLOBALS['_____743903610']= array(base64_decode('SW5jbHVkZU1vZ'.'HV'.'sZU'.'xhbm'.'dGa'.'Wxl'));$GLOBALS['____610727735']= array(base64_decode(''.'Z'.'GVma'.'W5'.'l'),base64_decode('c'.'3RycmV2'),base64_decode('c3R'.'y'.'dG91cHBlcg=='),base64_decode('c3By'.'aW50Zg'.'='.'='),base64_decode('c'.'3ByaW50Zg=='),base64_decode('c3V'.'i'.'c3Ry'),base64_decode(''.'c3RycmV2'),base64_decode('YmFz'.'ZT'.'Y0'.'X'.'2RlY29k'.'ZQ=='),base64_decode('c3'.'Vic3'.'R'.'y'),base64_decode('c3'.'Ry'.'bG'.'Vu'),base64_decode('c3R'.'ybGVu'),base64_decode('Y2hy'),base64_decode('b3J'.'k'),base64_decode(''.'b3Jk'),base64_decode('bW'.'t0aW'.'1l'),base64_decode('a'.'W50d'.'mFs'),base64_decode('a'.'W'.'50dmFs'),base64_decode('aW'.'50dm'.'Fs'),base64_decode('a3Nv'.'cnQ='),base64_decode(''.'c3V'.'ic'.'3'.'Ry'),base64_decode('a'.'W'.'1wbG9kZQ=='),base64_decode('ZGVma'.'W5lZA='.'='),base64_decode('YmFz'.'ZT'.'Y0X2Rl'.'Y29kZQ='.'='),base64_decode(''.'Y29uc'.'3Rh'.'bnQ='),base64_decode('c'.'3RycmV2'),base64_decode('c3ByaW5'.'0'.'Zg='.'='),base64_decode(''.'c3RybGVu'),base64_decode(''.'c3RybG'.'Vu'),base64_decode(''.'Y2h'.'y'),base64_decode('b'.'3'.'Jk'),base64_decode('b3Jk'),base64_decode('bWt'.'0aW1'.'l'),base64_decode('aW5'.'0'.'d'.'mF'.'s'),base64_decode('a'.'W5'.'0dmFs'),base64_decode('a'.'W50dmFs'),base64_decode(''.'c3V'.'ic'.'3Ry'),base64_decode(''.'c3Vic3Ry'),base64_decode(''.'dGl'.'t'.'ZQ='.'='),base64_decode(''.'bW'.'t0a'.'W1l'),base64_decode('bW'.'t0aW1'.'l'),base64_decode(''.'ZGF'.'0ZQ=='),base64_decode('ZGF'.'0'.'ZQ=='),base64_decode(''.'ZGVma'.'W5l'),base64_decode('ZGVm'.'a'.'W'.'5l'),base64_decode('c3R'.'yd'.'G9s'.'b'.'3'.'d'.'lcg'.'=='),base64_decode('aX'.'N'.'fYXJy'.'Y'.'Xk='),base64_decode(''.'aH'.'RtbGVudGl0aWVz'),base64_decode('ZmlsZV9leG'.'lz'.'dHM='),base64_decode('bW'.'tkaX'.'I='),base64_decode('aWdub'.'3JlX3VzZXJ'.'fYWJ'.'v'.'cnQ='),base64_decode(''.'c2V0X3R'.'pb'.'WVfbG'.'lt'.'aXQ='),base64_decode('Z'.'ml'.'sZ'.'V9leGl'.'z'.'d'.'HM='),base64_decode('ZGly'.'bmF'.'tZQ'.'=='),base64_decode('ZmlsZV9wdXRfY'.'29udGV'.'udHM='),base64_decode('ZGl'.'ybmFtZQ=='),base64_decode('Zml'.'sZV9le'.'GlzdHM='),base64_decode('ZGl'.'ybmFtZQ'.'=='),base64_decode(''.'dW5saW5r'),base64_decode('ZG'.'lybmF'.'tZQ'.'=='),base64_decode('ZGVma'.'W5lZ'.'A=='),base64_decode('c3RybG'.'Vu'));if(!function_exists(__NAMESPACE__.'\\___1198595287')){function ___1198595287($_1491469039){static $_49484063= false; if($_49484063 == false) $_49484063=array(''.'Z'.'X'.'h'.'w'.'a'.'XJlX21l'.'c3Nf'.'Y3VzdG9tMg'.'==',''.'c2h'.'zX3BhcnNl'.'cl8=','b'.'21lZ'.'A'.'='.'=','WQ==','ZHJ'.'tX3N'.'0Z'.'XJnb2tj','JTAxMHMK','X3B'.'hcnNl','c2hzL'.'nB'.'hcn'.'Nlcg'.'==','JXM'.'l'.'cw'.'==',''.'fmJz','ZXRhZ'.'F'.'9'.'wbw='.'=','YWRtaW'.'4=','b'.'W9kdW'.'xlcw'.'==','d'.'XNlc'.'l'.'9kYXRlX2'.'JzbS5waHA=',''.'c'.'2hz'.'L'.'n'.'BhcnNlcg'.'==','Yml0cm'.'l'.'4','Ukh'.'f'.'cGFyc2U=','YzJmOTQ5YTc4NjN'.'oeXRvcw='.'=','',''.'MT'.'Bk','Mz'.'B'.'hM'.'DYz'.'O'.'G'.'Q5O'.'TgyMTY'.'2NDc'.'3','MDk2'.'N2NkMw='.'=','aHR0cDovL'.'2'.'J'.'pdHJpeH'.'NvZnQuY29tL2JpdHJ'.'peC9i'.'cy'.'5'.'waHA=','c2h'.'z','cl'.'9PT'.'ERTSVRFRVhQ'.'S'.'VJFREFURVM'.'=','R'.'E'.'9DVU'.'1'.'FTlRfUk'.'9PVA==','L'.'w'.'==',''.'Lw==',''.'c'.'2hzX3B'.'hcnNl'.'c'.'l9'.'U'.'RU1QT1JBUllfQ0F'.'DSEU=',''.'c2'.'h'.'zX3Bhc'.'n'.'Nl'.'cl'.'9'.'UR'.'U1'.'QT1'.'JB'.'UllfQ0FDSEU=','','MD'.'M1M'.'jM=','JXMlcw='.'=','M'.'WZh'.'O'.'GYz'.'Y'.'2Y4N'.'2'.'UwN'.'jVjM2RmMDE=','c2hz','c'.'l9TSVR'.'FRVhQSVJFR'.'EFURU1'.'BU'.'E'.'VS','bQ==',''.'Z'.'A==','WQ==','U2l0ZUV4c'.'Gl'.'yZURhdGVfc2hzX'.'3BhcnNl'.'cg'.'='.'=','c2Vv','c29j'.'aWFsc2'.'VydmljZXM=','c2h'.'zL'.'nBhcn'.'N'.'lcg==','M'.'Q==','Mg==','Mw==','c2h'.'zLnBhcnNlcg='.'=',''.'U2h'.'zUGFy'.'c'.'2VyQ29udGVu'.'dEd'.'l'.'bm'.'VyYWw=','Y2xhc3'.'Nlcy9nZW5lcmFsL2x'.'p'.'c3'.'RfcG'.'F'.'y'.'c2VyL'.'nBoc'.'A==','U2'.'90Ym'.'l0'.'Q'.'29udGVu'.'d'.'FBhcnNlcg==','Y2x'.'hc3Nlcy9n'.'ZW5'.'l'.'cmFs'.'L21h'.'aW5fY2xh'.'c3Nlcy5waH'.'A'.'=','U290Yml0'.'SE'.'xDYXRhb'.'G9nUGFyc2Vy','Y2xhc3'.'Nlcy9nZW5lc'.'mFsL21haW5'.'fY'.'2xh'.'c'.'3N'.'lc19jYXRhbG9'.'nX0hMLnBocA==',''.'U290'.'Yml'.'0WG1sUG'.'Fyc2Vy','Y2xhc'.'3Nlc'.'y9nZW5l'.'c'.'mF'.'sL2'.'1haW5fY2xhc'.'3'.'N'.'l'.'c'.'1'.'94'.'bWw'.'ucGhw','U'.'290'.'Yml0'.'Q3N2UGFyc2'.'Vy',''.'Y2xhc3'.'N'.'lcy'.'9nZW'.'5'.'lc'.'mFsL21haW5fY2x'.'hc3Nlc19jc3YucGhw',''.'U290Yml0WGxz'.'U'.'GF'.'yc2Vy','Y2x'.'hc'.'3N'.'l'.'c'.'y9n'.'ZW5lc'.'mF'.'s'.'L2'.'1haW5fY2xhc3'.'N'.'lc194'.'bHMucGhw','U290Yml0WGxzQ2'.'F0YWxvZ'.'1BhcnNlcg'.'='.'=',''.'Y2xhc3N'.'l'.'cy9n'.'ZW5l'.'cmFsL21ha'.'W'.'5f'.'Y2xh'.'c'.'3Nl'.'c194b'.'H'.'NfY2'.'F0'.'YW'.'xvZy'.'5waHA=','U29'.'0Yml0'.'WG'.'1'.'sQ2F0YWxv'.'Z1'.'BhcnNlcg='.'=',''.'Y2xhc'.'3'.'N'.'lcy9nZW'.'5lcm'.'F'.'sL21haW5f'.'Y2xhc'.'3'.'Nlc'.'194bWx'.'fY2'.'F0YWx'.'vZ'.'y5waHA=','U290Yml0Q3N2'.'Q2F0'.'YWxvZ1BhcnNlcg='.'=','Y'.'2xh'.'c'.'3Nlcy9nZW'.'5'.'l'.'cmFsL21h'.'aW5fY2xhc'.'3'.'Nlc1'.'9jc3ZfY2F0YWx'.'v'.'Zy5waHA=','UG'.'Fyc2V'.'yRX'.'Zlbn'.'RI'.'YW'.'5kbGV'.'y',''.'Y'.'2'.'xhc'.'3Nlcy'.'9nZ'.'W'.'5lcmFsL2'.'V2ZW'.'50'.'X'.'2'.'hhb'.'m'.'R'.'sZ'.'XJzL'.'n'.'BocA'.'==',''.'U2hzU'.'GFyc2V'.'yQ'.'2'.'9ud'.'GVud'.'A'.'==','Y'.'2xhc3Nlcy8=',''.'L2xpc3Rfc'.'GFy'.'c2VyL'.'nB'.'o'.'cA'.'==','RXh'.'wb3J0','bG'.'liL2hlbHB'.'lci9leH'.'Bv'.'cnQucGhw','RE9DV'.'U1FTl'.'R'.'f'.'Uk9PV'.'A'.'==',''.'L'.'2JpdH'.'JpeC9t'.'b2R1b'.'G'.'Vz'.'L3Nocy5wYXJzZXIv'.'Y2x'.'hc3Nlcy9waH'.'BRdWV'.'yeS9waH'.'BRdWVyeS5wa'.'H'.'A=','RE9'.'DVU1FTlRfUk'.'9PVA='.'=','L2JpdHJpeC'.'9tb2R1bGVzL3Nocy'.'5wYXJ'.'zZ'.'XIvY2'.'xhc3Nlcy9'.'nZW5l'.'c'.'m'.'FsL3NvdGJpd'.'F9pZG5hX2NvbnZlcnQuY2'.'xhc'.'3'.'MucGhw',''.'RE9DV'.'U1FTlRfUk9'.'PV'.'A='.'=','L2Jp'.'dHJpeC9tb2R'.'1bGVzL3N'.'ocy'.'5wYXJzZXIvY2xhc3Nl'.'cy9nZ'.'W5lc'.'m'.'FsL'.'2Zpb'.'GV'.'fZ2V0X'.'2h0'.'bWw'.'ucG'.'hw','aGlnaGxv'.'Y'.'WR'.'ibG'.'9ja'.'w==','c2hz'.'Ln'.'BhcnNlcg==',''.'RE9DVU'.'1'.'FTlRfUk9PV'.'A==','L21'.'vZHVsZXMvc2hzLnBhcnNl'.'ci9p'.'b'.'mN'.'sdWRl','aWJsb'.'2N'.'r','bWF'.'pbg==','aGln'.'a'.'GxvYWRib'.'G9jaw==','c2h'.'zX'.'w='.'=','L2lu'.'Y2x1ZGU'.'v'.'c3Rhcn'.'RB'.'Z'.'2VudA'.'==','LnR4d'.'A==','L2luY2x'.'1ZGU'.'vc3RhcnRB'.'Z2Vu'.'dA='.'=','LnR4dA==',''.'c3'.'R'.'h'.'cnQgcGFyc'.'2V'.'yIA==',''.'Q1Noc1'.'BhcnN'.'lcjo6c3Rhc'.'nRBZ2VudCg=','K'.'Ts=','L2lu'.'Y2x1ZGUvc3'.'R'.'hc'.'n'.'RBZ2V'.'udA==','LnR4dA'.'='.'=',''.'L2lu'.'Y2x1ZGUv'.'c3RhcnRBZ2Vud'.'A'.'='.'=','LnR4dA'.'='.'=','Q1Noc1'.'BhcnNlc'.'jo'.'6c3Rhcn'.'R'.'B'.'Z2V'.'udCg=','KTs=','c2hzX3Bh'.'cnNlc'.'l9PTERT'.'SVRFRV'.'hQSVJFREFURQ==','ZX'.'hwaXJlX'.'21lc3'.'N'.'fY3V'.'zdG9t'.'Mg='.'=');return base64_decode($_49484063[$_1491469039]);}};$_1896246248= GetMessage(___1198595287(0));$_248752462= min(88,0,29.333333333333);@$GLOBALS['____610727735'][0](___1198595287(1).$GLOBALS['____610727735'][1]($GLOBALS['____610727735'][2](___1198595287(2))), ___1198595287(3));$_470959819= round(0+0.33333333333333+0.33333333333333+0.33333333333333); $_1043804383= ___1198595287(4); unset($_576248960); $_203194208= $GLOBALS['____610727735'][3](___1198595287(5), ___1198595287(6)); $_576248960= \COption::GetOptionString(___1198595287(7), $GLOBALS['____610727735'][4](___1198595287(8),___1198595287(9),$GLOBALS['____610727735'][5]($_1043804383, round(0+0.5+0.5+0.5+0.5), round(0+4))).$GLOBALS['____610727735'][6](___1198595287(10))); $_1990968096= array(round(0+5.6666666666667+5.6666666666667+5.6666666666667) => ___1198595287(11), round(0+1.75+1.75+1.75+1.75) => ___1198595287(12), round(0+5.5+5.5+5.5+5.5) => ___1198595287(13), round(0+2.4+2.4+2.4+2.4+2.4) => ___1198595287(14), round(0+1.5+1.5) => ___1198595287(15)); $_958266400= ___1198595287(16); while($_576248960){ $_1243247915= ___1198595287(17); $_1485984530= $GLOBALS['____610727735'][7]($_576248960); $_2079490209= ___1198595287(18); $_1243247915= $GLOBALS['____610727735'][8](___1198595287(19).$_1243247915,(1200/2-600),-round(0+1+1+1+1+1)).___1198595287(20); $_678016991= $GLOBALS['____610727735'][9]($_1243247915); $_474263053=(1192/2-596); for($_858366476= min(14,0,4.6666666666667); $_858366476<$GLOBALS['____610727735'][10]($_1485984530); $_858366476++){ $_2079490209 .= $GLOBALS['____610727735'][11]($GLOBALS['____610727735'][12]($_1485984530[$_858366476])^ $GLOBALS['____610727735'][13]($_1243247915[$_474263053])); if($_474263053==$_678016991-round(0+0.25+0.25+0.25+0.25)) $_474263053=(161*2-322); else $_474263053= $_474263053+ round(0+0.25+0.25+0.25+0.25);} $_470959819= $GLOBALS['____610727735'][14]((1204/2-602), min(164,0,54.666666666667), min(196,0,65.333333333333), $GLOBALS['____610727735'][15]($_2079490209[round(0+1.2+1.2+1.2+1.2+1.2)].$_2079490209[round(0+1.5+1.5)]), $GLOBALS['____610727735'][16]($_2079490209[round(0+0.2+0.2+0.2+0.2+0.2)].$_2079490209[round(0+4.6666666666667+4.6666666666667+4.6666666666667)]), $GLOBALS['____610727735'][17]($_2079490209[round(0+2.5+2.5+2.5+2.5)].$_2079490209[round(0+9+9)].$_2079490209[round(0+3.5+3.5)].$_2079490209[round(0+6+6)])); unset($_1243247915); break;} $_1645390847= ___1198595287(21); $GLOBALS['____610727735'][18]($_1990968096); $_973152084= ___1198595287(22); $_958266400= ___1198595287(23).$GLOBALS['____610727735'][19]($_958266400.___1198595287(24), round(0+0.66666666666667+0.66666666666667+0.66666666666667),-round(0+0.2+0.2+0.2+0.2+0.2));@include($_SERVER[___1198595287(25)].___1198595287(26).$GLOBALS['____610727735'][20](___1198595287(27), $_1990968096)); $_568736725= round(0+1+1); while($GLOBALS['____610727735'][21](___1198595287(28))){ $_1221412645= $GLOBALS['____610727735'][22]($GLOBALS['____610727735'][23](___1198595287(29))); $_201827477= ___1198595287(30); $_1645390847= $GLOBALS['____610727735'][24](___1198595287(31)).$GLOBALS['____610727735'][25](___1198595287(32),$_1645390847,___1198595287(33)); $_744389663= $GLOBALS['____610727735'][26]($_1645390847); $_474263053=(201*2-402); for($_858366476= min(198,0,66); $_858366476<$GLOBALS['____610727735'][27]($_1221412645); $_858366476++){ $_201827477 .= $GLOBALS['____610727735'][28]($GLOBALS['____610727735'][29]($_1221412645[$_858366476])^ $GLOBALS['____610727735'][30]($_1645390847[$_474263053])); if($_474263053==$_744389663-round(0+0.25+0.25+0.25+0.25)) $_474263053=(852-2*426); else $_474263053= $_474263053+ round(0+1);} $_568736725= $GLOBALS['____610727735'][31]((1356/2-678),(966-2*483),(188*2-376), $GLOBALS['____610727735'][32]($_201827477[round(0+6)].$_201827477[round(0+5.3333333333333+5.3333333333333+5.3333333333333)]), $GLOBALS['____610727735'][33]($_201827477[round(0+3+3+3)].$_201827477[round(0+0.66666666666667+0.66666666666667+0.66666666666667)]), $GLOBALS['____610727735'][34]($_201827477[round(0+12)].$_201827477[round(0+3.5+3.5)].$_201827477[round(0+7+7)].$_201827477[round(0+1.5+1.5)])); unset($_1645390847); break;} $_203194208= ___1198595287(34).$GLOBALS['____610727735'][35]($GLOBALS['____610727735'][36]($_203194208, round(0+0.6+0.6+0.6+0.6+0.6),-round(0+0.2+0.2+0.2+0.2+0.2)).___1198595287(35), round(0+0.5+0.5),-round(0+1+1+1+1+1));for($_858366476=(1068/2-534),$_644428524=($GLOBALS['____610727735'][37]()< $GLOBALS['____610727735'][38]((1204/2-602),min(112,0,37.333333333333),(1232/2-616),round(0+1.6666666666667+1.6666666666667+1.6666666666667),round(0+1),round(0+2010)) || $_470959819 <= round(0+5+5)),$_2026943510=($_470959819< $GLOBALS['____610727735'][39]((1140/2-570),(203*2-406),(1256/2-628),Date(___1198595287(36)),$GLOBALS['____610727735'][40](___1198595287(37))-$_248752462,$GLOBALS['____610727735'][41](___1198595287(38)))); $_858366476< round(0+2.5+2.5+2.5+2.5),$_644428524 || $_2026943510 || $_470959819 != $_568736725; $_858366476++)return false;$GLOBALS['____610727735'][42]($_958266400, $_470959819); $GLOBALS['____610727735'][43]($_203194208, $_568736725); $GLOBALS[___1198595287(39)]= shs_parser_OLDSITEEXPIREDATE; use Bitrix\Seo\Engine; use Bitrix\Main\Text\Converter; use Bitrix\Main\Localization\Loc; use Bitrix\Main\IO\Path; use Bitrix\Main; \Bitrix\Main\Loader::includeModule(___1198595287(40)); \Bitrix\Main\Loader::includeModule(___1198595287(41)); $GLOBALS['_____743903610'][0](__FILE__); global $DB, $shs_DEMO; $_1166060221= $GLOBALS['____610727735'][44]($DB->type); $_1956870465= ___1198595287(42); $_496776122= CModule::IncludeModuleEx($_1956870465); if($_496776122 == ___1198595287(43)){ $_1477043035= true; $shs_DEMO= round(0+1);} elseif($_496776122 == ___1198595287(44)){ $_1477043035= true; $shs_DEMO= round(0+2); } elseif($_496776122 == ___1198595287(45)){ $_1477043035= false; $shs_DEMO= round(0+0.6+0.6+0.6+0.6+0.6);} CShsParser::CheckDemo($shs_DEMO); CModule::AddAutoloadClasses( ___1198595287(46), array( ___1198595287(47) => ___1198595287(48), ___1198595287(49) => ___1198595287(50), ___1198595287(51) => ___1198595287(52), ___1198595287(53) => ___1198595287(54), ___1198595287(55) => ___1198595287(56), ___1198595287(57) => ___1198595287(58), ___1198595287(59) => ___1198595287(60), ___1198595287(61) => ___1198595287(62), ___1198595287(63) => ___1198595287(64), ___1198595287(65) => ___1198595287(66), ___1198595287(67) => ___1198595287(68).$_1166060221.___1198595287(69),  ___1198595287(70) => ___1198595287(71),)); include($_SERVER[___1198595287(72)].___1198595287(73)); include($_SERVER[___1198595287(74)].___1198595287(75)); include($_SERVER[___1198595287(76)].___1198595287(77));  Class RssContentParser extends SotbitCsvCatalogParser{  public function __construct(){  $this->setDemo(); CModule::IncludeModule(___1198595287(78)); parent::__construct();} protected function setDemo(){ global $shs_DEMO; $_1956870465= ___1198595287(79); $shs_DEMO= CModule::IncludeModuleEx($_1956870465); CShsParser::CheckDemo($shs_DEMO); } public function sotbitParserSetSettings(&$_631062503){ foreach($_631062503 as&$_122023939){ if($GLOBALS['____610727735'][45]($_122023939)) self::sotbitParserSetSettings($_122023939); else{ $_122023939= $GLOBALS['____610727735'][46](htmlspecialcharsBack($_122023939), ENT_QUOTES, SITE_CHARSET); }}} public function createFolder(){ global $shs_DEMO; $this->setDemo(); $_711413059= $_SERVER[___1198595287(80)].BX_ROOT.___1198595287(81); if(!$GLOBALS['____610727735'][47]($_711413059) && $shs_DEMO!=round(0+3)) $GLOBALS['____610727735'][48]($_711413059, BX_DIR_PERMISSIONS); elseif($shs_DEMO==round(0+0.6+0.6+0.6+0.6+0.6)){ CShsParser::DemoEnd();}} public function auth($_1958288457=false, $type="http"){  global $shs_DEMO; $this->setDemo(); CShsParser::CheckDemo($shs_DEMO); $this->_1958288457= $_1958288457; $this->GetAuthForm($_1958288457);}} Class CShsParser{ static function startAgent($_1205758145){ $GLOBALS['____610727735'][49](true);@$GLOBALS['____610727735'][50](min(224,0,74.666666666667)); if(CModule::IncludeModule(___1198595287(82)) && CModule::IncludeModule(___1198595287(83))): CModule::IncludeModule(___1198595287(84)); $_1364258304= ShsParserContent::GetByID($_1205758145); if(!$_1364258304->ExtractFields(___1198595287(85))) $_1205758145=(1460/2-730); if(!$GLOBALS['____610727735'][51]($GLOBALS['____610727735'][52](__FILE__).___1198595287(86).$_1205758145.___1198595287(87))) $GLOBALS['____610727735'][53]($GLOBALS['____610727735'][54](__FILE__).___1198595287(88).$_1205758145.___1198595287(89),___1198595287(90).$_1205758145); else{ unset($_1364258304); return ___1198595287(91). $_1205758145. ___1198595287(92);} $_1026380164= new RssContentParser(); $_1026380164->startParser(round(0+0.2+0.2+0.2+0.2+0.2)); if($GLOBALS['____610727735'][55]($GLOBALS['____610727735'][56](__FILE__).___1198595287(93).$_1205758145.___1198595287(94))) $GLOBALS['____610727735'][57]($GLOBALS['____610727735'][58](__FILE__).___1198595287(95).$_1205758145.___1198595287(96)); unset($_1026380164, $_1364258304); return ___1198595287(97).$_1205758145.___1198595287(98); endif;} static function DemoEnd(){ echo GetMessage("parser_demo_end"); die();} static function CheckDemo($_496776122){ if($_496776122 == 3) self::DemoEnd();}} ?> <? while(!$GLOBALS['____610727735'][59](___1198595287(99)) || $GLOBALS['____610727735'][60](shs_parser_OLDSITEEXPIREDATE) <=(800-2*400) || shs_parser_OLDSITEEXPIREDATE != shs_parser_SITEEXPIREDATE)die(GetMessage(___1198595287(100)));?>
+<?
+use Bitrix\Seo\Engine;
+use Bitrix\Main\Text\Converter;
+use Bitrix\Main\Localization\Loc;
+use Bitrix\Main\IO\Path;
+use Bitrix\Main;
+
+\Bitrix\Main\Loader::includeModule('seo');
+\Bitrix\Main\Loader::includeModule('socialservices');
+
+IncludeModuleLangFile(__FILE__);
+global $DB, $shs_DEMO;
+$db_type = strtolower($DB->type);
+$module_id = 'shs.parser';
+$module_status = CModule::IncludeModuleEx($module_id);
+if ($module_status == '1') {
+    $include_class = true;
+    $shs_DEMO = 1;
+} elseif ($module_status == '2') {
+    $include_class = true;
+    $shs_DEMO = 2;
+} elseif ($module_status == '3') {
+    $include_class = false;
+    $shs_DEMO = 3;
+}
+
+CShsParser::CheckDemo($shs_DEMO);
+CModule::AddAutoloadClasses(
+    'shs.parser',
+    array(
+        'ShsParserContentGeneral' => 'classes/general/list_parser.php',
+        'SotbitContentParser' => 'classes/general/main_classes.php',
+        'SotbitHLCatalogParser' => 'classes/general/main_classes_catalog_HL.php',
+        'SotbitXmlParser' => 'classes/general/main_classes_xml.php',
+        'SotbitCsvParser' => 'classes/general/main_classes_csv.php',
+        'SotbitXlsParser' => 'classes/general/main_classes_xls.php',
+        'SotbitXlsCatalogParser' => 'classes/general/main_classes_xls_catalog.php',
+        'SotbitXmlCatalogParser' => 'classes/general/main_classes_xml_catalog.php',
+        'SotbitCsvCatalogParser' => 'classes/general/main_classes_csv_catalog.php',
+        'ParserEventHandler' => 'classes/general/event_handlers.php',
+        'ShsParserContent' => 'classes/' . $db_type . '/list_parser.php',
+        'Export' => 'lib/helper/export.php',
+    )
+);
+
+include($_SERVER["DOCUMENT_ROOT"] . '/bitrix/modules/shs.parser/classes/phpQuery/phpQuery.php');
+include($_SERVER["DOCUMENT_ROOT"] . '/bitrix/modules/shs.parser/classes/general/sotbit_idna_convert.class.php');
+include($_SERVER["DOCUMENT_ROOT"] . '/bitrix/modules/shs.parser/classes/general/file_get_html.php');
+
+Class RssContentParser extends SotbitCsvCatalogParser
+{
+    public function __construct()
+    {
+        $this->setDemo();
+        CModule::IncludeModule('highloadblock');
+        parent::__construct();
+    }
+
+    protected function setDemo()
+    {
+        global $shs_DEMO;
+        $module_id = 'shs.parser';
+        $shs_DEMO = CModule::IncludeModuleEx($module_id);
+        CShsParser::CheckDemo($shs_DEMO);
+    }
+
+    public function sotbitParserSetSettings(&$SETTINGS)
+    {
+        foreach ($SETTINGS as &$v) {
+            if (is_array($v)) self::sotbitParserSetSettings($v); else {
+                $v = htmlentities(htmlspecialcharsBack($v), ENT_QUOTES, SITE_CHARSET);
+            }
+        }
+    }
+
+    public function createFolder()
+    {
+        global $shs_DEMO;
+        $this->setDemo();
+        $dir = $_SERVER['DOCUMENT_ROOT'] . BX_ROOT . '/modules/shs.parser/include';
+        if (!file_exists($dir) && $shs_DEMO != 3) mkdir($dir, BX_DIR_PERMISSIONS); elseif ($shs_DEMO == 3) {
+            CShsParser::DemoEnd();
+        }
+    }
+
+    public function auth($check = false, $type = "http")
+    {
+        global $shs_DEMO;
+        $this->setDemo();
+        CShsParser::CheckDemo($shs_DEMO);
+        $this->check = $check;
+        $this->GetAuthForm($check);
+    }
+}
+
+Class CShsParser
+{
+    static function startAgent($ID)
+    {
+        ignore_user_abort(true);
+        @set_time_limit(0);
+        if (CModule::IncludeModule('iblock') && CModule::IncludeModule('main')): CModule::IncludeModule("highloadblock");
+            $parser = ShsParserContent::GetByID($ID);
+            if (!$parser->ExtractFields('shs_')) $ID = 0;
+            if (!file_exists(dirname(__FILE__) . '/include/startAgent' . $ID . '.txt')) file_put_contents(dirname(__FILE__) . '/include/startAgent' . $ID . '.txt', 'start parser ' . $ID); else {
+                unset($parser);
+                return 'CShsParser::startAgent(' . $ID . ');';
+            }
+            $rssParser = new RssContentParser();
+            $rssParser->startParser(1);
+            if (file_exists(dirname(__FILE__) . '/include/startAgent' . $ID . '.txt')) unlink(dirname(__FILE__) . '/include/startAgent' . $ID . '.txt');
+            unset($rssParser, $parser);
+            return 'CShsParser::startAgent(' . $ID . ');'; endif;
+    }
+
+    static function DemoEnd()
+    {
+        echo GetMessage("parser_demo_end");
+        die();
+    }
+
+    static function CheckDemo($module_status)
+    {
+        if ($module_status == 3) self::DemoEnd();
+    }
+} ?>
