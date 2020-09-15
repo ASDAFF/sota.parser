@@ -7,7 +7,7 @@ IncludeModuleLangFile(__FILE__);
 
 Class SotaParserContentGeneral
 {
-    function CheckFields($arFields, $ID)
+    function CheckFields($arFields, $ID = 0)
     {
         global $DB;
         $this->LAST_ERROR = "";

@@ -151,13 +151,13 @@ if($ID>0 || $copy)
     if($ID>0 && $shs_TIME_AGENT>0){
         $arAgent = CAgent::GetList(array(), array("NAME"=>"CShsParser::startAgent(".$ID.");"))->Fetch();
         if(!$arAgent && $shs_START_AGENT=="Y"){CAgent::AddAgent(
-            "CShsParser::startAgent(".$ID.");", // имя функции
-            "shs.parser",                          // идентификатор модуля
-            "N",                                  // агент не критичен к кол-ву запусков
-            $shs_TIME_AGENT,                                // интервал запуска - 1 сутки
-            "",                // дата первой проверки на запуск
-            "Y",                                  // агент активен
-            "",                // дата первого запуска
+            "CShsParser::startAgent(".$ID.");", // РёРјСЏ С„СѓРЅРєС†РёРё
+            "shs.parser",                          // РёРґРµРЅС‚РёС„РёРєР°С‚РѕСЂ РјРѕРґСѓР»СЏ
+            "N",                                  // Р°РіРµРЅС‚ РЅРµ РєСЂРёС‚РёС‡РµРЅ Рє РєРѕР»-РІСѓ Р·Р°РїСѓСЃРєРѕРІ
+            $shs_TIME_AGENT,                                // РёРЅС‚РµСЂРІР°Р» Р·Р°РїСѓСЃРєР° - 1 СЃСѓС‚РєРё
+            "",                // РґР°С‚Р° РїРµСЂРІРѕР№ РїСЂРѕРІРµСЂРєРё РЅР° Р·Р°РїСѓСЃРє
+            "Y",                                  // Р°РіРµРЅС‚ Р°РєС‚РёРІРµРЅ
+            "",                // РґР°С‚Р° РїРµСЂРІРѕРіРѕ Р·Р°РїСѓСЃРєР°
             100
           );}
         elseif($arAgent){
@@ -367,7 +367,7 @@ if(isset($_REQUEST['start']) && $ID>0){
 }
 
 /***
-**** Парсинг каталог и XML
+**** РџР°СЂСЃРёРЅРі РєР°С‚Р°Р»РѕРі Рё XML
 ***/
 
 if($shs_TYPE=="catalog" || $_GET["type"]=="catalog" || $shs_TYPE=="xml" || $_GET["type"]=="xml")
@@ -441,7 +441,7 @@ if($shs_TYPE=="catalog" || $_GET["type"]=="catalog" || $shs_TYPE=="xml" || $_GET
     }
     
     /***
-    **** Табы для каталога
+    **** РўР°Р±С‹ РґР»СЏ РєР°С‚Р°Р»РѕРіР°
     ***/
     
     if ($shs_TYPE=="catalog" || $_GET["type"]=="catalog")
@@ -484,7 +484,7 @@ if($shs_TYPE=="catalog" || $_GET["type"]=="catalog" || $shs_TYPE=="xml" || $_GET
     }
     
     /***
-    **** Табы для XML
+    **** РўР°Р±С‹ РґР»СЏ XML
     ***/
     
     if ($shs_TYPE=="xml" || $_GET["type"]=="xml")
@@ -534,7 +534,7 @@ if($shs_TYPE=="catalog" || $_GET["type"]=="catalog" || $shs_TYPE=="xml" || $_GET
 }
 
 /***
-**** RSS и PAGE
+**** RSS Рё PAGE
 ***/
 
 else{
